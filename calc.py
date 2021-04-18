@@ -126,6 +126,7 @@ def main():
 		knot.angle = np.around(knot.angle, decimals=4) 
 		knot.genQ = np.around(knot.genQ, decimals=2) 
 		print(knot)
+		
 
 
 
